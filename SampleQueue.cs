@@ -19,6 +19,7 @@ namespace Collections1
             nums.Enqueue("yy");
             nums.Enqueue(null);
             nums.Enqueue("zz");
+            nums.Enqueue("aa");
 
 
             foreach (string i in nums) { 
