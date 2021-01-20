@@ -13,6 +13,7 @@ namespace Collections1
             Langs.Add("Java");
             Langs.Add(".net");
             Langs.Add("c");
+            Langs.Add("c++");
             Langs.Add(null);
 
             Console.WriteLine("the names of languages are..");
