@@ -11,6 +11,8 @@ namespace Collections1
             li.Add("paru");
             li.Add("geetha");
             li.Add("swetha");
+            li.Add("sravs");
+            li.Add("pavani");
             li.Add(null);
             
 
